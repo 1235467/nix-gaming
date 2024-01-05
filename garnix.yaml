@@ -1,0 +1,4 @@
+builds:
+ exclude: ["packages.x86_64-linux.dxvk","packages.x86_64-linux.dxvk-w32","packages.x86_64-linux.dxvk-w64","packages.x86_64-linux.faf-client","packages.x86_64-linux.faf-client-unstable","packages.x86_64-linux.modrinth-app","packages.x86_64-linux.vkd3d-proton","packages.x86_64-linux.vkd3d-proton-w32","packages.x86_64-linux.vkd3d-proton-w64","packages.x86_64-linux.wineprefix-preparer"]
+ include:
+ - 'packages.x86_64-linux.*'
