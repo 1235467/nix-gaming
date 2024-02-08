@@ -105,10 +105,10 @@
         "owner": "GloriousEggroll",
         "repo": "proton-wine"
       },
-      "branch": "Proton8-25",
-      "revision": "3061bb04122124447acc0ab2a569128414d041cb",
-      "url": "https://github.com/GloriousEggroll/proton-wine/archive/3061bb04122124447acc0ab2a569128414d041cb.tar.gz",
-      "hash": "1njjdmahkd4wwdrv1c9hz9bazf3d3wnpsmwrmbr144mmwgp73j2f"
+      "branch": "Proton8-26",
+      "revision": "39021e609a24b6aeffdf9c4695a286d71e7dffbc",
+      "url": "https://github.com/GloriousEggroll/proton-wine/archive/39021e609a24b6aeffdf9c4695a286d71e7dffbc.tar.gz",
+      "hash": "000d5kba7vs5nc1sc3946jkpqmch4w09qz74i5zgc7nh7znck6f8"
     },
     "vkd3d-proton": {
       "type": "GitRelease",
