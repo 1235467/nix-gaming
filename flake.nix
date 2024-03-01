@@ -2,7 +2,7 @@
   description = "Gaming on Nix";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/9099616b93301d5cf84274b184a3a5ec69e94e08";
     flake-parts.url = "github:hercules-ci/flake-parts";
   };
 
